@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T09:10:46.046Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="IsPrL1zJvgJDU5wDXVCS" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T09:12:44.351Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="yNVLiVxyMJoCrz-sOSNr" version="22.1.5" type="github">
   <diagram name="Page-1" id="c0LfCaRA-3R7Aoqcc4b5">
     <mxGraphModel dx="1912" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,17 +22,17 @@
         <mxCell id="HsOJpXerE5FL0MDGk8vI-12" value="&lt;div&gt;Caching Servers &lt;br&gt;&lt;/div&gt;Netflix Server l&lt;br&gt;Google Servers &lt;br&gt;Extream Caching Servers &lt;br&gt;Facebook Servers &lt;br&gt;DN Server " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="180" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HsOJpXerE5FL0MDGk8vI-13" value="&lt;div&gt;Caching Servers&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Netflix Server &lt;br&gt;&lt;/div&gt;Google Servers &lt;br&gt;Extream Caching Servers &lt;br&gt;Facebook Servers &lt;br&gt;&lt;div&gt;DNS Server &lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="HsOJpXerE5FL0MDGk8vI-13" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Caching Servers&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Netflix Server &lt;br&gt;&lt;/div&gt;Google Servers &lt;br&gt;Extream Caching Servers &lt;br&gt;Facebook Servers &lt;br&gt;&lt;div&gt;DNS Server &lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1" y="140" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="HsOJpXerE5FL0MDGk8vI-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.physical_host;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="114" y="150" width="27" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="HsOJpXerE5FL0MDGk8vI-15" value="AAA Servers&amp;nbsp; &lt;br&gt;Radius Server&lt;br&gt;Log Server &lt;br&gt;H8 Server" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="HsOJpXerE5FL0MDGk8vI-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AAA Servers&amp;nbsp; &lt;/font&gt;&lt;/b&gt;&lt;br&gt;Radius Server&lt;br&gt;Log Server &lt;br&gt;H8 Server" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="10" y="320" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HsOJpXerE5FL0MDGk8vI-16" value="&lt;p style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Mumbai Data Center &lt;br&gt;Peering &lt;br&gt;Service 20 Gig&lt;br&gt;1, Google PNI 10 Gig&lt;br&gt;2, Extreme IX 6.Gig &lt;br&gt;3, De-Cix 5 Gig &lt;br&gt;4 Facebook &lt;br&gt;5 NIXI &lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="HsOJpXerE5FL0MDGk8vI-16" value="&lt;p style=&quot;line-height: 110%; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Mumbai Data Center &lt;br&gt;Peering &lt;/b&gt;&lt;br&gt;Service 20 Gig&lt;br&gt;1, Google PNI 10 Gig&lt;br&gt;2, Extreme IX 6.Gig &lt;br&gt;3, De-Cix 5 Gig &lt;br&gt;4 Facebook &lt;br&gt;5 NIXI &lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="10" y="460" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HsOJpXerE5FL0MDGk8vI-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Chennai Data Center &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Peering&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Service 10 Gig &lt;br&gt;1, Google PNI 10 Gig&lt;br&gt;2 De-Cix 3 Gig " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="650" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
